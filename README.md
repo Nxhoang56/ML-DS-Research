@@ -1,7 +1,7 @@
 # Machine Learning and Data Sciecne Research
 <p align='left'>
   <a href="https://www.facebook.com/nxhoangg/">
-    <img src="https://img.shields.io/badge/Humans%20of%20HUST-FFDFD3?style=flat&logo=FACEBOOK&logoColor=black" />
+    <img src="https://img.shields.io/badge/%F0%9F%99%82-Facebook-lightgrey" />
 </p>
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tuanlda78202/MLR?color=%23F7CAC9&label=Commit&logo=Battle.net&logoColor=%23DFCFBE&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/tuanlda78202/MLR?color=%23F7CAC9&label=Last%20Commit&logo=Google%20Photos&logoColor=%23DFCFBE&style=flat-square) ![GitHub repo size](https://img.shields.io/github/repo-size/tuanlda78202/MLR?color=%23F7CAC9&label=Repo%20Size&logo=Databricks&logoColor=%23DFCFBE&style=flat-square)
