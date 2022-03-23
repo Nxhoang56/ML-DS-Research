@@ -32,7 +32,7 @@
 - [CVF](https://openaccess.thecvf.com/menu)
  
 - [ACM](http://dl.acm.org/)
-
+![plot](https://github.com/Nxhoang56/ML-DS-Research/blob/main/Paper%20finding%20procedure.jpg)
 ## 1.2. Datasets and Tasks
 
 - [Huggingface Datasets](https://huggingface.co/datasets)
