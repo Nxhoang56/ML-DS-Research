@@ -112,7 +112,13 @@
     - [NAACL](https://naacl2019.org/)
     - [EMNLP](https://www.emnlp-ijcnlp2019.org/)
 -->
-- **Data**
+- **Artificial Intelligence**
+    - [AAAI](https://www.aaai.org/)
+      - Association for the Advancement of Artificial Intelligence. AAAI is a little more applications focused, and a little less theoretical than some of the other AI conferences.
+    - [ICANN](https://e-nns.org/icann2019/)
+    - [IJCAI](https://www.ijcai.org/)
+     - [UAI](http://www.auai.org/)
+  - **Data**
     - [KDD](https://www.kdd.org/)
     - [CIKM](http://www.cikmconference.org/)
     - [ICDM](http://icdm2019.bigke.org/)
@@ -123,12 +129,6 @@
     - [SIGIR](https://sigir.org/)
     - [WWW](https://www2019.thewebconf.org/)
     - [WSDM](https://www.wsdm-conference.org/)
-- **Artificial Intelligence**
-    - [AAAI](https://www.aaai.org/)
-      - Association for the Advancement of Artificial Intelligence. AAAI is a little more applications focused, and a little less theoretical than some of the other AI conferences.
-    - [ICANN](https://e-nns.org/icann2019/)
-    - [IJCAI](https://www.ijcai.org/)
-     - [UAI](http://www.auai.org/)
 # 4. Courses
 * [Maths for Machine Learning](https://app.learney.me/maps/original_map#)
 * [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
