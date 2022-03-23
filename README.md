@@ -68,7 +68,7 @@
     
     * [universaldependencies](https://universaldependencies.org/) -->
     
-- A script to search arXiv papers for a keyword, and extract important information such as performance metrics on a task:
+- A script for searching arXiv papers for a keyword, and extracting important information such as performance metrics on a task:
     
     * [huyenchip](https://huyenchip.com/2018/10/04/sotawhat.html)
 
