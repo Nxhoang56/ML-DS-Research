@@ -7,7 +7,7 @@
 ![GitHub commit activity](https://img.shields.io/github/last-commit/Nxhoang56/ML-DS-Research?color=23F7CAC9&label=Commit&logo=Battle.net&logoColor=23DFCFBE&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/Nxhoang56/ML-DS-Research?color=%23F7CAC9&label=Last%20Commit&logo=Google%20Photos&logoColor=%23DFCFBE&style=flat-square) ![GitHub repo size](https://img.shields.io/github/repo-size/Nxhoang56/ML-DS-Research?color=%23F7CAC9&label=Repo%20Size&logo=Databricks&logoColor=%23DFCFBE&style=flat-square)
 # 1. Project Topic
 
-## 1.1. Existing research
+## 1.1. Research Resources 
 - [**Connected Papers**](https://www.connectedpapers.com)
 
 - [**Papers with Code**](https://paperswithcode.com/sota)
