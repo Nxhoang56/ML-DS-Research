@@ -136,4 +136,4 @@
 * [CS230: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu)
 # 5. Rewarding Repositories 
-* [Python is cool - **Huyenchip**](https://github.com/Nxhoang56/python-is-cool)
+* [Python is cool - *Huyenchip*](https://github.com/chiphuyen/python-is-cool)
