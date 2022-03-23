@@ -135,3 +135,5 @@
 * [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/?fbclid=IwAR15ClfPoL7mfylj6knvko-A_0uE06eFCZB4ZBOBFqwjwWjqYTafNkA-a1k)
 * [CS230: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu)
+# 5. Rewarding Repositories 
+* [Python is cool - **Huyenchip**](https://github.com/Nxhoang56/python-is-cool)
