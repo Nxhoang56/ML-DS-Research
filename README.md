@@ -105,8 +105,7 @@
       - Computer Vision and Pattern Recognition.
     - [ICCV](http://iccv2019.thecvf.com/)
       - International Conference on Computer Vision.
-    - [ECCV](https://eccv2020.eu/)
---!>
+    - [ECCV](https://eccv2020.eu/) --!>
 - **Natural Language Processing**
     - [ACL](http://www.acl2019.org/EN/index.xhtml)
     - [NAACL](https://naacl2019.org/)
