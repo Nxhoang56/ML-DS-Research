@@ -89,7 +89,7 @@
     
 - [spaCy](https://spacy.io/), another Python package that can do preprocessing, but also includes neural models (e.g. Language Models)    
 
-# 3. Top Tiers ML&AI Conferences
+# 3. Top Tiers ML-AI Conferences
 
 - **Machine Learning**
     - [NeurIPS](https://nips.cc/)
@@ -100,16 +100,18 @@
       - International Conference on Learning Representations. ICLR was really the first conference focused on deep learning. It’s called “learning representations” because the motivation behind deep learning is to automatically learn higher-level features, or representations, that summarize data in useful ways. Deep Learning describes the structure of our current best solution to the problem of learning these representations.
     - [AISTATS](https://www.aistats.org/)
 
-<!-- **Computer Vision**
+<!--**Computer Vision**
     - [CVPR](http://cvpr2019.thecvf.com/)
       - Computer Vision and Pattern Recognition.
     - [ICCV](http://iccv2019.thecvf.com/)
       - International Conference on Computer Vision.
-    - [ECCV](https://eccv2020.eu/) --!>
-- **Natural Language Processing**
+    - [ECCV](https://eccv2020.eu/) -->
+  
+<!-- - **Natural Language Processing**
     - [ACL](http://www.acl2019.org/EN/index.xhtml)
     - [NAACL](https://naacl2019.org/)
     - [EMNLP](https://www.emnlp-ijcnlp2019.org/)
+-->
 - **Data**
     - [KDD](https://www.kdd.org/)
     - [CIKM](http://www.cikmconference.org/)
