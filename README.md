@@ -77,9 +77,9 @@
 - [Mendeley](https://www.mendeley.com/search/)
 
 
-# 2. Project Advice
+# 2. Supportive Tools 
 
-## Processing Data
+## Data Processing
 
 - [StanfordNLP](https://stanfordnlp.github.io/stanfordnlp/), a Python library providing tokenization, tagging, parsing, and other capabilities.
         
