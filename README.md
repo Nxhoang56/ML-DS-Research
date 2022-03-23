@@ -35,7 +35,7 @@
 ![plot](https://github.com/Nxhoang56/ML-DS-Research/blob/main/Paper%20finding%20procedure.jpg)
 ## 1.2. Datasets and Tasks
 
-- [Huggingface Datasets](https://huggingface.co/datasets)
+<!-- - [Huggingface Datasets](https://huggingface.co/datasets) -->
     
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
     
@@ -45,7 +45,7 @@
         
 - [Microsoft Research](https://www.microsoft.com/en-us/research/academic-program/data-science-microsoft-research) has a collection of datasets (look under the ‘Dataset directory’ tab)
 
-- SOTA NLP:
+<!-- - SOTA NLP:
         
     * [nlpprogress](https://nlpprogress.com/)
     
@@ -66,28 +66,26 @@
     
 - Syntactic corpora for many languages:
     
-    * [universaldependencies](https://universaldependencies.org/)
+    * [universaldependencies](https://universaldependencies.org/) -->
     
 - A script to search arXiv papers for a keyword, and extract important information such as performance metrics on a task:
     
     * [huyenchip](https://huyenchip.com/2018/10/04/sotawhat.html)
 
-## 1.13. Tools 
-- [Overleaf](https://www.overleaf.com/project)
-- [Mendeley](https://www.mendeley.com/search/)
-
-
 # 2. Supportive Tools 
 
-## Data Processing
+## 2.1 Data Processing
 
-- [StanfordNLP](https://stanfordnlp.github.io/stanfordnlp/), a Python library providing tokenization, tagging, parsing, and other capabilities.
+<!-- - [StanfordNLP](https://stanfordnlp.github.io/stanfordnlp/), a Python library providing tokenization, tagging, parsing, and other capabilities.
         
 - Software from the [Stanford NLP Group](http://nlp.stanford.edu/software/index.shtml)
     
-- [NLTK](http://nltk.org/), a lightweight Natural Language Toolkit package in Python.
+- [NLTK](http://nltk.org/), a lightweight Natural Language Toolkit package in Python. -->
     
 - [spaCy](https://spacy.io/), another Python package that can do preprocessing, but also includes neural models (e.g. Language Models)    
+## 2.2 Tools 
+- [Overleaf](https://www.overleaf.com/project)
+- [Mendeley](https://www.mendeley.com/search/)
 
 # 3. Top Tiers ML-AI Conferences
 
