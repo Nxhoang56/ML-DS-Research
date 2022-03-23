@@ -1,4 +1,4 @@
-# Machine Learning Research
+# Machine Learning and Data Sciecne Research
 <p align='left'>
   <a href="https://www.facebook.com/nxhoangg/">
     <img src="https://img.shields.io/badge/Humans%20of%20HUST-FFDFD3?style=flat&logo=FACEBOOK&logoColor=black" />
