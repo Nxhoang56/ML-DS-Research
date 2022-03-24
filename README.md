@@ -85,7 +85,7 @@
 - [spaCy](https://spacy.io/), another Python package that can do preprocessing, but also includes neural models (e.g. Language Models)    
 ## 2.2 Tools 
 - [Overleaf](https://www.overleaf.com/project)
-- [Mendeley](https://www.mendeley.com/search/)
+- [Mendeley](https://www.mendeley.com/search/) : a search tool for surveying and helping in reference management   
 
 # 3. Top Tiers ML-AI Conferences
 
